@@ -1,2 +1,2 @@
-# credit-card
+# react_weather_pplication
 Created with CodeSandbox
